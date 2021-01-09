@@ -1,0 +1,13 @@
+# 应用名称
+spring:
+  application:
+    name: app-messaging
+
+fcm:
+  ttl: 600000
+  packageName: test
+
+ios:
+  ttl: 600000
+  password: 123456
+

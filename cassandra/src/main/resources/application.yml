@@ -1,0 +1,9 @@
+spring:
+  main:
+    allow-bean-definition-overriding: true
+  data:
+    cassandra:
+      keyspace-name: device_data
+      contact-points: 10.0.8.50
+      local-datacenter: datacenter1
+      port: 9042

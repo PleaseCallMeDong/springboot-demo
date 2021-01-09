@@ -1,0 +1,9 @@
+server:
+  port: 18081
+
+spring:
+  application:
+    name: springSession
+  redis:
+    host: 10.0.8.50
+    database: 1
